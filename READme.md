@@ -5,5 +5,5 @@
 #### 2. два
 #### 3. три
 #### 4. четыре
-<image src="/mobile_dev/gosling.jpg" alt="опа">
+<image src="/gosling.jpg" alt="опа">
 
