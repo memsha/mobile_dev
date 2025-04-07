@@ -1,0 +1,1 @@
+ C:\\Users\\Redmi\\Documents\\mobile_dev\\lab5\\.dart_tool\\flutter_build\\dd4420680425957a7c8884fbfa0781e6\\native_assets.json: 
